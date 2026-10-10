@@ -25,8 +25,8 @@ window.presentation = {
       "group": "feelings",
       "videos": [
         {
-          "src": "media/08.mp4",
-          "poster": "media/08.jpg"
+          "src": "08.mp4",
+          "poster": "08.jpg"
         }
       ],
       "paragraphs": [
@@ -41,8 +41,8 @@ window.presentation = {
       "group": "feelings",
       "videos": [
         {
-          "src": "media/10.mp4",
-          "poster": "media/10.jpg"
+          "src": "10.mp4",
+          "poster": "10.jpg"
         }
       ],
       "paragraphs": [
@@ -56,8 +56,8 @@ window.presentation = {
       "group": "feelings",
       "videos": [
         {
-          "src": "media/09.mp4",
-          "poster": "media/09.jpg"
+          "src": "09.mp4",
+          "poster": "09.jpg"
         }
       ],
       "paragraphs": [
@@ -71,8 +71,8 @@ window.presentation = {
       "group": "feelings",
       "videos": [
         {
-          "src": "media/06.mp4",
-          "poster": "media/06.jpg"
+          "src": "06.mp4",
+          "poster": "06.jpg"
         }
       ],
       "paragraphs": [
@@ -85,8 +85,8 @@ window.presentation = {
       "group": "visual",
       "videos": [
         {
-          "src": "media/01.mp4",
-          "poster": "media/01.jpg"
+          "src": "01.mp4",
+          "poster": "01.jpg"
         }
       ],
       "paragraphs": [
@@ -99,8 +99,8 @@ window.presentation = {
       "group": "visual",
       "videos": [
         {
-          "src": "media/02.mp4",
-          "poster": "media/02.jpg"
+          "src": "02.mp4",
+          "poster": "02.jpg"
         }
       ],
       "paragraphs": [
@@ -114,8 +114,8 @@ window.presentation = {
       "group": "visual",
       "videos": [
         {
-          "src": "media/03.mp4",
-          "poster": "media/03.jpg"
+          "src": "03.mp4",
+          "poster": "03.jpg"
         }
       ],
       "paragraphs": [
@@ -128,8 +128,8 @@ window.presentation = {
       "group": "visual",
       "videos": [
         {
-          "src": "media/05.mp4",
-          "poster": "media/05.jpg"
+          "src": "05.mp4",
+          "poster": "05.jpg"
         }
       ],
       "paragraphs": [
@@ -142,12 +142,12 @@ window.presentation = {
       "group": "visual",
       "videos": [
         {
-          "src": "media/11.mp4",
-          "poster": "media/11.jpg"
+          "src": "11.mp4",
+          "poster": "11.jpg"
         },
         {
-          "src": "media/12.mp4",
-          "poster": "media/12.jpg"
+          "src": "12.mp4",
+          "poster": "12.jpg"
         }
       ],
       "paragraphs": [
@@ -160,8 +160,8 @@ window.presentation = {
       "group": "visual",
       "videos": [
         {
-          "src": "media/13.mp4",
-          "poster": "media/13.jpg"
+          "src": "13.mp4",
+          "poster": "13.jpg"
         }
       ],
       "paragraphs": [
@@ -174,8 +174,8 @@ window.presentation = {
       "group": "ai",
       "videos": [
         {
-          "src": "media/04.mp4",
-          "poster": "media/04.jpg"
+          "src": "04.mp4",
+          "poster": "04.jpg"
         }
       ],
       "paragraphs": [
@@ -189,8 +189,8 @@ window.presentation = {
       "group": "ai",
       "videos": [
         {
-          "src": "media/07.mp4",
-          "poster": "media/07.jpg"
+          "src": "07.mp4",
+          "poster": "07.jpg"
         }
       ],
       "paragraphs": [
@@ -213,8 +213,8 @@ window.presentation = {
       "group": "ai",
       "videos": [
         {
-          "src": "media/14.mp4",
-          "poster": "media/14.jpg"
+          "src": "14.mp4",
+          "poster": "14.jpg"
         }
       ],
       "paragraphs": [
@@ -229,8 +229,8 @@ window.presentation = {
       "group": "ai",
       "videos": [
         {
-          "src": "media/15.mp4",
-          "poster": "media/15.jpg"
+          "src": "15.mp4",
+          "poster": "15.jpg"
         }
       ],
       "paragraphs": [
